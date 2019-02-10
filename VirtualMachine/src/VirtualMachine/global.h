@@ -1,1 +1,0 @@
-#ifndef _GLOBAL_LPC1768_H_#define _GLOBAL_LPC1768_H_#include "config.h"#endif
